@@ -48,7 +48,7 @@ The model performs well even on the minority class (Surprise) despite significan
 
 ## Emotion Class Examples
 
-The following examples illustrate how emotions can be expressed with subtlety and complexity in natural language. Each line is taken from the dataset and reflects a specific emotional category:
+The following examples illustrate how emotions can be expressed with subtlety and complexity in natural language. Each example is taken from the dataset and accurately reflects its emotional category. These are supplementary to the examples shown in the notebook.
 
 ### Anger
 > *"i’m feeling are selfish because i know people have it worse but i can’t help being frustrated"*
