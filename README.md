@@ -46,15 +46,24 @@ The model performs well even on the minority class (Surprise) despite significan
 | Fear | 27,000 | 18.00% | Good (F1: 0.86) |
 | Surprise | 9,000 | 6.00% | Good (F1: 0.77) |
 
-### Sample Text Examples
+## Emotion Class Examples
 
-Examples from the dataset:
+The following examples illustrate how emotions can be expressed with subtlety and complexity in natural language. Each line is taken from the dataset and reflects a specific emotional category:
 
-**Joy**: *"im slowly deflating but im still hard and i can still feel you giving me delicious little squeezes"*  
-**Sadness**: *"i have cried a lot in my life and know that im nowhere near done with feeling hurt and pain in this world"*  
-**Anger**: *"i feel i m going too mad and random with fabric choices then i look to rein it back in by using black and white fabrics or a neutral or even a patterned fabric that i then start to use"*  
-**Fear**: *"i encounter such violations i feel unprotected and the idea that its dangerous out there sets in hard"*  
-**Surprise**: *"i was expecting responding to a risk factor questionnaire those two questions in particular caught me off guard and it really made me wonder how i would feel surprised scared confused"*
+### Anger
+> *"i’m feeling are selfish because i know people have it worse but i can’t help being frustrated"*
+
+### Fear
+> *"i feel a bit hesitant to go back to my life in the city after everything that’s happened"*
+
+### Joy
+> *"i want to feel cool but being myself at the same time makes me genuinely happy"*
+
+### Sadness
+> *"i can feel it coming did you know that pain me more than i could say"*
+
+### Surprise
+> *"i think back over the last few months i feel pretty amazed by how quickly things changed"*
 
 ## Getting Started
 
